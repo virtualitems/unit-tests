@@ -45,6 +45,7 @@ This is a guide for testing forms in web applications.
 - does not accept only spaces
 - does not accept scientific notation
 - does not accept special characters
+- does not auto complete value
 
 <br />
 
@@ -58,6 +59,7 @@ This is a guide for testing forms in web applications.
 - accepts uppercase letters
 - does not accept invisible characters
 - does not accept only spaces
+- does not auto complete value
 - XSS protection
 
 **CSRF token**
@@ -87,6 +89,7 @@ This is a guide for testing forms in web applications.
 - accepts a value in valid choices
 - accepts multiple values in valid choices if the field is multiple
 - does not accept a value that is not in valid choices
+- has an disabled default option
 
 <br />
 

@@ -111,5 +111,13 @@ This is a guide for testing forms in web applications.
 - accepts any file name
 - accepts files with valid file size
 - accepts files with valid file type
-- accepts images with valid dimensions
 - XSS protection
+
+**CSV**
+- is valid csv format with headers
+- is valid csv format without headers
+- is valid data
+- is valid data structure
+
+**Image**
+- accepts images with valid dimensions

@@ -126,6 +126,8 @@ This is a guide for testing forms in web applications.
 
 ## Formsets
 
+**After submit**
+
 - create saved new items
 - delete non saved existing items
 - update saved existing items

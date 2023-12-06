@@ -121,3 +121,25 @@ This is a guide for testing forms in web applications.
 
 **Image**
 - accepts images with valid dimensions
+
+<br />
+
+## Formsets
+
+- create saved new items
+- delete non saved existing items
+- update saved existing items
+
+**Existing items**
+
+- remove an existing item
+- shows existing items in correct order
+- shows existing items with correct values
+- update value in existing item
+
+**New items**
+
+- create a new item
+- remove a new item
+- shows new items in correct order
+- update value in new item

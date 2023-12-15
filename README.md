@@ -82,6 +82,8 @@ This is a guide for testing forms in web applications.
 
 **URL**
 - is valid url format
+- accepts HTTP and HTTPS protocols
+- does not accept any protocols but HTTP and HTTPS
 
 <br />
 
@@ -97,7 +99,7 @@ This is a guide for testing forms in web applications.
 - accepts only positive values
 
 **Date**
-- is valid date format
+- is valid ISO 8601 date format
 
 **Date and Time**
 - is valid datetime format
@@ -107,6 +109,7 @@ This is a guide for testing forms in web applications.
 
 **Time**
 - is valid time format
+- accepts negative values
 
 <br />
 
@@ -124,6 +127,7 @@ This is a guide for testing forms in web applications.
 
 **Image**
 - accepts images with valid dimensions
+- accepts images with valid file type
 
 <br />
 

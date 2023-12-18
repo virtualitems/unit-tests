@@ -50,13 +50,16 @@ This is a guide for testing forms in web applications.
 <br />
 
 ## Text field
+- accepts leading spaces
+- accepts trailing spaces
+- accepts intermediate spaces
+- accepts numbers
 - accepts another language characters
 - accepts letters with diacritics
 - accepts limited number of characters
 - accepts lowercase letters
-- accepts numbers
-- accepts special characters
 - accepts uppercase letters
+- accepts special characters
 - does not accept invisible characters
 - does not accept only spaces
 - does not auto complete value
@@ -95,13 +98,15 @@ This is a guide for testing forms in web applications.
 
 <br />
 
-## Time field
-- accepts only positive values
+## Date or Time field
+- accepts earlier date or time
+- accept later date or time
+- accepts current date or time
 
 **Date**
 - is valid ISO 8601 date format
 
-**Date and Time**
+**Datetime**
 - is valid datetime format
 
 **Duration**
@@ -109,7 +114,6 @@ This is a guide for testing forms in web applications.
 
 **Time**
 - is valid time format
-- accepts negative values
 
 <br />
 

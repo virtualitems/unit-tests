@@ -53,6 +53,7 @@ This is a guide for testing forms in web applications.
 - accepts leading spaces
 - accepts trailing spaces
 - accepts intermediate spaces
+- accepts line breaks
 - accepts numbers
 - accepts another language characters
 - accepts letters with diacritics
@@ -60,6 +61,7 @@ This is a guide for testing forms in web applications.
 - accepts lowercase letters
 - accepts uppercase letters
 - accepts special characters
+- accepts emojis
 - does not accept invisible characters
 - does not accept only spaces
 - does not auto complete value

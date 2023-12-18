@@ -158,3 +158,11 @@ This is a guide for testing forms in web applications.
 - remove a new item
 - shows new items in correct order
 - update value in new item
+
+<br />
+
+## Submit
+
+- submits the form using intro key
+- submits the form using submit button
+- submits the form after complete all fields

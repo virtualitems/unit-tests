@@ -8,12 +8,12 @@ This is a guide for testing forms in web applications.
 
 - [General](#general)
 - Fields by type
-    - [Index field](#index-field)
-    - [Numeric field](#numeric-field)
-    - [Text field](#text-field)
-    - [Select and radio field](#select-and-radio-field)
-    - [Date or Time field](#date-or-time-field)
-    - [File field](#file-field)
+    - [Index Field](#index-field)
+    - [Numeric Field](#numeric-field)
+    - [Text Field](#text-field)
+    - [Select and Radio Field](#select-and-radio-field)
+    - [Date or Time Field](#date-or-time-field)
+    - [File Field](#file-field)
 - [Formsets](#formsets)
 - [Submit](#submit)
 

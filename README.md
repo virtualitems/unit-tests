@@ -184,16 +184,16 @@ This is a guide for testing forms in web applications.
 
 **Event**
 
-    - submits the form pressing intro key
-    - submits the form pressing submit button
-    - submits the form after complete all fields
+- submits the form pressing intro key
+- submits the form pressing submit button
+- submits the form after complete all fields
 
 **Routes**
 
-    - submits the form to the correct route
-    - redirects to the correct route after submit
+- submits the form to the correct route
+- redirects to the correct route after submit
 
 **Method**
 
-    - submits the form using the correct http method
-    - submits the form using the correct enctype
+- submits the form using the correct http method
+- submits the form using the correct enctype

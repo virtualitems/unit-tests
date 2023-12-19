@@ -7,7 +7,7 @@ This is a guide for testing forms in web applications.
 <h2 id="index">Index</h2>
 
 - [General](#general)
-- Fields by type
+- Fields by Type
     - [Index Field](#index-field)
     - [Numeric Field](#numeric-field)
     - [Text Field](#text-field)

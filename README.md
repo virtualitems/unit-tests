@@ -4,7 +4,22 @@ This is a guide for testing forms in web applications.
 
 <br />
 
-## General
+<h2 id="index">Index</h2>
+
+- [General](#general)
+- Fields by type
+    - [Index field](#index-field)
+    - [Numeric field](#numeric-field)
+    - [Text field](#text-field)
+    - [Select and radio field](#select-and-radio-field)
+    - [Date or Time field](#date-or-time-field)
+    - [File field](#file-field)
+- [Formsets](#formsets)
+- [Submit](#submit)
+
+<br />
+
+<h2 id="general">General</h2>
 
 - accept empty value
 - is hidden field
@@ -13,7 +28,7 @@ This is a guide for testing forms in web applications.
 
 <br />
 
-## Index field
+<h2 id="index-field">Index Field</h2>
 
 **UUID**
 - is valid uuid format
@@ -23,7 +38,7 @@ This is a guide for testing forms in web applications.
 
 <br />
 
-## Numeric field
+<h2 id="numeric-field">Numeric Field</h2>
 
 **Boolean**
 - accepts false
@@ -49,7 +64,8 @@ This is a guide for testing forms in web applications.
 
 <br />
 
-## Text field
+<h2 id="text-field">Text Field</h2>
+
 - accepts leading spaces
 - accepts trailing spaces
 - accepts intermediate spaces
@@ -92,7 +108,8 @@ This is a guide for testing forms in web applications.
 
 <br />
 
-## Select and radio field
+<h2 id="select-and-radio-field">Select and Radio Field</h2>
+
 - accepts a value in valid choices
 - accepts multiple values in valid choices if the field is multiple
 - does not accept a value that is not in valid choices
@@ -100,7 +117,8 @@ This is a guide for testing forms in web applications.
 
 <br />
 
-## Date or Time field
+<h2 id="date-or-time-field">Date or Time field</h2>
+
 - accepts earlier date or time
 - accept later date or time
 - accepts current date or time
@@ -119,7 +137,8 @@ This is a guide for testing forms in web applications.
 
 <br />
 
-## File field
+<h2 id="file-field">File Field</h2>
+
 - accepts any file name
 - accepts files with valid file size
 - accepts files with valid file type
@@ -137,7 +156,7 @@ This is a guide for testing forms in web applications.
 
 <br />
 
-## Formsets
+<h2 id="formsets">Formsets</h2>
 
 **After submit**
 
@@ -161,7 +180,7 @@ This is a guide for testing forms in web applications.
 
 <br />
 
-## Submit
+<h2 id="submit">Submit</h2>
 
 - submits the form using intro key
 - submits the form using submit button

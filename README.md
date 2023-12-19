@@ -182,6 +182,16 @@ This is a guide for testing forms in web applications.
 
 <h2 id="submit">Submit</h2>
 
-- submits the form using intro key
-- submits the form using submit button
-- submits the form after complete all fields
+- Event
+    - submits the form pressing intro key
+    - submits the form pressing submit button
+    - submits the form after complete all fields
+
+- Routes
+    - submits the form to the correct route
+    - redirects to the correct route after submit
+
+- Method
+    - submits the form using the correct http method
+    - submits the form using the correct enctype
+

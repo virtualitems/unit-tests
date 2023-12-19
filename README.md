@@ -97,12 +97,16 @@ This is a guide for testing forms in web applications.
 
 **Password**
 - is valid password format
+- is strong password
 
 **Telephone number**
 - is valid telephone number format
+- is valid telephone number
+- is valid telephone number country prefix
 
 **URL**
 - is valid url format
+- the url is reachable
 - accepts HTTP and HTTPS protocols
 - does not accept any protocols but HTTP and HTTPS
 
@@ -112,8 +116,10 @@ This is a guide for testing forms in web applications.
 
 - accepts a value in valid choices
 - accepts multiple values in valid choices if the field is multiple
+- can remove all selected options
 - does not accept a value that is not in valid choices
 - has an disabled default option
+- the disabled options are not selectable
 
 <br />
 

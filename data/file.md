@@ -1,9 +1,12 @@
 <h1 id="file-data">Dato de tipo archivo</h1>
 
+- ¿Acepta valor nulo?
 - ¿El nombre del archivo qué restricciones tiene?
     - ¿Qué caracteres acepta en el nombre?
     - ¿Qué extensión acepta en el nombre?
+    - ¿Qué sucede si el nombre no contiene extensión?
     - ¿Qué longitud acepta en el nombre?
+    - ¿El nombre del archivo está protegido contra XSS?
 - ¿Cuál es el tamaño mínimo aceptado?
 - ¿Cuál es el tamaño máximo aceptado?
 - ¿Qué formato de archivo acepta?

@@ -1,5 +1,6 @@
 <h1 id="datetime-data">Dato de tipo fecha y hora</h1>
 
+- ¿Acepta valor nulo?
 - ¿Qué formato de fecha y hora acepta?
 - ¿Cuál es la fecha y hora mínima aceptada?
 - ¿Cuál es la fecha y hora máxima aceptada?

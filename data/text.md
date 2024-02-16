@@ -1,5 +1,7 @@
 <h1 id="text-data">Dato de tipo texto</h1>
 
+- ¿Acepta valor nulo?
+- ¿El valor debe ser único?
 - ¿Cuál es la longitud mínima aceptada?
 - ¿Cuál es la longitud máxima aceptada?
 - ¿Acepta espacios?
@@ -19,6 +21,8 @@
     - ¿Acepta caracteres de tabulaciones?
     - ¿Acepta caracteres invisibles?
 - ¿Tiene protección XSS?
+- ¿Tiene protección SQL Injection?
+
 
 <h2 id="password">Dato de tipo contraseña</h2>
 

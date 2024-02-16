@@ -1,9 +1,15 @@
 <h1 id="numeric-data">Dato numérico</h1>
 
+- ¿Acepta valor nulo?
+
 <h2 id="number">Número</h2>
 
+- ¿Valida caracteres diferentes a números?
+    - ¿Acepta notación científica?
+- ¿Acepta ceros a la izquierda?
 - ¿Acepta números con decimales?
     - ¿Cuántos dígitos decimales acepta?
+    - ¿Acepta ceros a la derecha después del punto decimal?
 - ¿Acepta números enteros?
 - ¿Cuál es el valor mínimo aceptado?
 - ¿Cuál es el valor máximo aceptado?

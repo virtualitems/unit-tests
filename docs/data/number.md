@@ -1,6 +1,7 @@
 # Dato de tipo número
 
 - ¿acepta valor nulo?
+- ¿tiene un valor predeterminado?
 - ¿acepta ceros a la izquierda?
 - ¿acepta notación científica?
 - ¿cuál es el valor mínimo aceptado?

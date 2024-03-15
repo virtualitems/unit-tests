@@ -1,6 +1,7 @@
 # Dato de tipo fecha y hora
 
 - ¿acepta valor nulo?
+- ¿tiene un valor predeterminado?
 - ¿qué formato de fecha y hora acepta?
     - ¿contiene dato de año?
     - ¿contiene dato de mes?

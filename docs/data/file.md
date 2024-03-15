@@ -1,6 +1,7 @@
 # Dato de tipo archivo
 
 - ¿acepta valor nulo?
+- ¿tiene un valor predeterminado?
 - ¿qué formato de archivo acepta?
 - ¿cuál es el tamaño mínimo aceptado?
 - ¿cuál es el tamaño máximo aceptado?

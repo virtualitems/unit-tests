@@ -1,7 +1,7 @@
 # Dato de tipo texto
 
 - ¿acepta valor nulo?
-- ¿el valor debe ser único?
+- ¿tiene un valor predeterminado?
 - ¿cuál es la longitud mínima aceptada?
 - ¿cuál es la longitud máxima aceptada?
 - ¿acepta espacios?

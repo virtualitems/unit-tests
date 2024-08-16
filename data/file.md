@@ -9,7 +9,8 @@
     - ¿El nombre del archivo está protegido contra XSS?
 - ¿Cuál es el tamaño mínimo aceptado para el archivo?
 - ¿Cuál es el tamaño máximo aceptado para el archivo?
-- ¿Qué formatos de archivo acepta?
+- ¿Cuáles formatos de archivo acepta?
+    - ¿Cuáles mime types acepta?
 
 <h2 id="csv">Archivo de tipo CSV</h2>
 

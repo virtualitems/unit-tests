@@ -11,4 +11,4 @@
 
 - ¿Crea los elementos inexistentes enviados?
 - ¿Actualiza los elementos existentes enviados?
-- ¿Elimina los elementos no enviados?
+- ¿Elimina los elementos existentes no enviados?

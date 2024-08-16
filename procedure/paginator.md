@@ -1,4 +1,4 @@
-<h1 id="get-data">Obtener datos</h1>
+<h1 id="paginator">Paginador</h1>
 
 - ¿En qué formato se deben recibir los datos?
 - ¿Qué datos se deben recibir?

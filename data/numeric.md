@@ -1,9 +1,8 @@
 <h1 id="numeric-data">Dato numérico</h1>
 
-- ¿Acepta valor nulo?
-
 <h2 id="number">Número</h2>
 
+- ¿Tiene un valor predeterminado?
 - ¿Valida caracteres diferentes a números?
     - ¿Acepta notación científica?
 - ¿Acepta ceros a la izquierda?

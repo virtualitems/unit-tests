@@ -1,6 +1,5 @@
 <h1 id="file-data">Dato de tipo archivo</h1>
 
-- ¿Acepta valor nulo?
 - ¿El nombre del archivo qué restricciones tiene?
     - ¿Qué caracteres acepta en el nombre?
     - ¿Qué extensión acepta en el nombre?

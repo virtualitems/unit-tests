@@ -2,6 +2,9 @@
 
 - ¿Tiene un valor predeterminado?
 - ¿Qué formato de fecha y hora acepta?
+    - ¿Acepta sólo fecha?
+    - ¿Acepta sólo hora?
+    - ¿Acepta indicador de zona horaria?
 - ¿Cuál es la fecha y hora mínima aceptada?
 - ¿Cuál es la fecha y hora máxima aceptada?
 

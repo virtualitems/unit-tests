@@ -11,11 +11,15 @@
     - ¿Acepta saltos de línea?
 - ¿Qué caracteres acepta?
     - ¿Acepta caracteres de números?
+        - ¿Acepta sólo caracteres de números?
     - ¿Acepta caracteres de otro idioma?
     - ¿Acepta caracteres de letras con tildes?
     - ¿Acepta caracteres de letras minúsculas?
+        - ¿Acepta sólo caracteres de letras minúsculas?
     - ¿Acepta caracteres de letras mayúsculas?
+        - ¿Acepta sólo caracteres de letras mayúsculas?
     - ¿Acepta caracteres de símbolos?
+        - ¿Acepta sólo caracteres de símbolos?
     - ¿Acepta caracteres de emojis?
     - ¿Acepta caracteres de tabulaciones?
     - ¿Acepta caracteres invisibles?
@@ -33,13 +37,16 @@
 - ¿Es una URL válida?
 - ¿Es una URL disponible?
 
+<h2 id="xml">Dato de tipo XML</h2>
+
+<h2 id="json">Dato de tipo JSON</h2>
+
 <h2 id="format">Formatos a validar</h2>
 
+- address
 - csrf token
 - email
 - file path
-- json
 - phone number
 - slug
 - uuid
-- xml

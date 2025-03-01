@@ -1,27 +1,20 @@
 # Dato de tipo número
 
-- ¿acepta valor nulo?
-- ¿tiene un valor predeterminado?
-- ¿acepta ceros a la izquierda?
-- ¿acepta notación científica?
-- ¿cuál es el valor mínimo aceptado?
-- ¿cuál es el valor máximo aceptado?
+- [Especificaciones generales](./general.md)
+
+- ¿Debe aceptar ceros a la izquierda?
+- ¿Debe aceptar notación científica?
+- ¿Debe ignorar valores específicos?
+    - ¿Qué valores debe ignorar?
+- ¿Cuál debe ser el valor mínimo aceptado?
+- ¿Cuál debe ser el valor máximo aceptado?
 
 ## Número entero
 
-- ¿acepta números enteros?
+- ¿Debe aceptar números enteros?
 
 ## Número real
 
-- ¿acepta números con decimales?
-    - ¿cuántos dígitos decimales acepta?
-    - ¿acepta ceros a la derecha después del punto decimal?
-
-## Booleano
-
-- ¿acepta el valor false?
-    - ¿qué dato representa el valor false?
-- ¿aceptar el valor true?
-    - ¿qué dato representa el valor true?
-- ¿acepta valor indeterminado?
-    - ¿qué dato representa el valor indeterminado?
+- ¿Debe aceptar números con decimales?
+    - ¿Cuántos dígitos decimales debe aceptar?
+    - ¿Debe aceptar ceros a la derecha después del punto decimal?

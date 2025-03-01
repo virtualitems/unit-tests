@@ -1,28 +1,15 @@
 # Dato de tipo fecha y hora
 
-- ¿acepta valor nulo?
-- ¿tiene un valor predeterminado?
-- ¿qué formato de fecha y hora acepta?
-    - ¿contiene dato de año?
-    - ¿contiene dato de mes?
-    - ¿contiene dato de día?
-    - ¿contiene dato de hora?
-    - ¿contiene dato de minuto?
-    - ¿contiene dato de segundo?
-    - ¿contiene dato de milisegundo?
-    - ¿contiene dato de zona horaria?
-- ¿cuál es la fecha y hora mínima aceptada?
-- ¿cuál es la fecha y hora máxima aceptada?
+- [Especificaciones generales](./general.md)
 
-## Dato de tipo duración
-
-- ¿qué formato de duración acepta?
-    - ¿contiene dato de año?
-    - ¿contiene dato de mes?
-    - ¿contiene dato de día?
-    - ¿contiene dato de hora?
-    - ¿contiene dato de minuto?
-    - ¿contiene dato de segundo?
-    - ¿contiene dato de milisegundo?
-- ¿cuál es la duración mínima aceptada?
-- ¿cuál es la duración máxima aceptada?
+- ¿Qué formato de fecha y hora debe usar?
+    - ¿Debe contiener el año?
+    - ¿Debe contiener el mes?
+    - ¿Debe contiener el día?
+    - ¿Debe contiener la hora?
+    - ¿Debe contiener el minuto?
+    - ¿Debe contiener el segundo?
+    - ¿Debe contiener el milisegundo?
+    - ¿Debe contiener la zona horaria?
+- ¿Cuál debe ser la fecha y hora mínima aceptada?
+- ¿Cuál debe ser la fecha y hora máxima aceptada?

@@ -1,36 +1,34 @@
 # Dato de tipo texto
 
-- ¿acepta valor nulo?
-- ¿tiene un valor predeterminado?
-- ¿cuál es la longitud mínima aceptada?
-- ¿cuál es la longitud máxima aceptada?
-- ¿acepta espacios?
-    - ¿acepta espacios al inicio?
-    - ¿acepta espacios al final?
-    - ¿acepta espacios intermedios?
-    - ¿acepta sólo espacios?
-    - ¿acepta saltos de línea?
-- ¿qué caracteres acepta?
-    - ¿acepta caracteres de números?
-    - ¿acepta caracteres de otro idioma?
-    - ¿acepta caracteres de letras con tildes?
-    - ¿acepta caracteres de letras minúsculas?
-    - ¿acepta caracteres de letras mayúsculas?
-    - ¿acepta caracteres de símbolos?
-    - ¿acepta caracteres de emojis?
-    - ¿acepta caracteres de tabulaciones?
-    - ¿acepta caracteres invisibles?
+- [Especificaciones generales](./general.md)
+
+- ¿Cuál debe ser la longitud mínima aceptada?
+- ¿Cuál debe ser la longitud máxima aceptada?
+- ¿Debe aceptar espacios?
+    - ¿Debe aceptar espacios al inicio?
+    - ¿Debe aceptar espacios al final?
+    - ¿Debe aceptar espacios intermedios?
+    - ¿Debe aceptar dos o más espacios consecutivos?
+    - ¿Debe aceptar sólo espacios?
+    - ¿Debe aceptar saltos de línea?
+    - ¿Debe aceptar tabulaciones?
+- ¿Qué caracteres debe aceptar?
+    - ¿Debe aceptar caracteres de números?
+    - ¿Debe aceptar caracteres de múltiples idiomas?
+    - ¿Debe aceptar caracteres de letras con tildes?
+    - ¿Debe aceptar caracteres de letras minúsculas?
+    - ¿Debe aceptar caracteres de letras mayúsculas?
+    - ¿Debe aceptar caracteres de símbolos?
+    - ¿Debe aceptar caracteres de emojis?
+    - ¿Debe aceptar caracteres invisibles?
 
 ## Dato de tipo contraseña
 
-- ¿es una contraseña válida?
-- ¿es una contraseña fuerte?
-
-## Dato de tipo URL
-
-- ¿el protocolo, subdominio, dominio, puerto, y ruta son válidos?
-- ¿es una url válida?
-- ¿es una url disponible?
+- ¿Debe aceptar mínimo una letra?
+    - ¿Debe aceptar mínimo una letra mayúscula?
+    - ¿Debe aceptar mínimo una letra minúscula?
+- ¿Debe aceptar mínimo un número?
+- ¿Debe aceptar mínimo un símbolo?
 
 ## Formatos a validar
 

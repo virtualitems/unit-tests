@@ -1,23 +1,23 @@
 # Dato de tipo archivo
 
-- ¿acepta valor nulo?
-- ¿tiene un valor predeterminado?
-- ¿qué formato de archivo acepta?
-- ¿cuál es el tamaño mínimo aceptado?
-- ¿cuál es el tamaño máximo aceptado?
-- ¿el nombre del archivo qué restricciones tiene?
-    - ¿qué caracteres acepta en el nombre?
-    - ¿qué extensión acepta en el nombre?
-    - ¿acepta el nombre sin extensión?
-    - ¿qué longitud acepta en el nombre?
+- [Especificaciones generales](./general.md)
+
+- ¿Qué formato de archivo debe aceptar?
+- ¿Cuál debe ser el tamaño mínimo aceptado?
+- ¿Cuál debe ser el tamaño máximo aceptado?
+- ¿Qué restricciones debe tener el nombre del archivo?
+    - ¿Qué caracteres debe aceptar en el nombre?
+    - ¿Qué extensión debe aceptar en el nombre?
+    - ¿Debe aceptar el nombre sin extensión?
+    - ¿Qué longitud debe aceptar en el nombre sin contar la extensión?
 
 ## Archivo de tipo CSV
 
-- ¿tiene encabezados?
-- ¿qué delimitador usa?
-- ¿qué caracter de escape use?
-- ¿qué estructura de datos contiene?
+- ¿El contenido debe tener encabezados?
+- ¿Qué delimitador debe usar el contenido?
+- ¿Qué carácter de escape debe usar el contenido?
+- ¿Qué estructura de datos debe tener el contenido?
 
 ## Archivo de tipo imágen
 
-- ¿qué dimensiones tiene?
+- ¿Qué dimensiones debe tener?

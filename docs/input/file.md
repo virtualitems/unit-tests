@@ -21,3 +21,8 @@
 ## Archivo de tipo imágen
 
 - ¿Qué dimensiones debe tener?
+
+## Archivo de tipo sonido y video
+
+- ¿Qué duración debe tener?
+- ¿Qué formato de compresión debe tener?

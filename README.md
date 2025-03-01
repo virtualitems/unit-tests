@@ -1,18 +1,16 @@
 # Framework de pruebas unitarias
 
-Esta es una guía para aplicar pruebas unitarias de software.
+Esta guía te llevará a dominar la aplicación de pruebas unitarias en software, asegurando calidad y robustez en cada feature que desarrolles.
 
 - Pruebas para datos
-    - [Fecha](/data/date.md)
-    - [Archivo](/data/file.md)
-    - [Número](/data/numeric.md)
-    - [Opción](/data/option.md)
-    - [Texto](/data/text.md)
+    - [Booleano](./docs/input/boolean.md)
+    - [Fecha](./docs/input/date.md)
+    - [Duración](./docs/input/duration.md)
+    - [Archivo](./docs/input/file.md)
+    - [Número](./docs/input/number.md)
+    - [Selección](./docs/input/selection.md)
+    - [Texto](./docs/input/text.md)
+
 - Pruebas para procedimientos
-    - [Enviar formulario](/procedure/form_submit.md)
-    - [Obtener datos](/procedure/get_data.md)
-- Pruebas para presentación gráfica
-    - [Forms](/presentation/form.md)
-    - [Formsets](/presentation/formset.md)
-    - [Listas](/presentation/list.md)
-    - [Tablas](/presentation/table.md)
+    - [Formularios](./docs/procedure/form.md)
+    - [Consulta de datos](./docs/procedure/query.md)

@@ -1,4 +1,4 @@
-# Imágenes
+# Imagen
 
 - ¿En qué formato debe estar la imagen?
 - ¿Qué tamaño debe tener la imagen?

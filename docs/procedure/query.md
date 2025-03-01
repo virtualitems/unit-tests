@@ -1,20 +1,12 @@
-<h1 id="get-data">Obtener datos</h1>
+# Consulta de datos
 
-- ¿En qué formato se deben recibir los datos?
-- ¿Qué datos se deben recibir?
-- ¿Qué sucede al no encontrar los datos?
-- ¿Tiene funcionalidad de paginación?
-    - ¿Cuántos datos se deben mostrar por página?
-- ¿Tiene funcionalidad de búsqueda?
-    - ¿A qué campos se les puede aplicar la búsqueda?
-- ¿Tiene funcionalidad de ordenamiento?
-    - ¿A qué campos se les puede aplicar el ordenamiento?
-    - ¿En qué orden se deben mostrar los datos por defecto?
-
-<!--
-limit
-sort
-search
-page
-fields
--->
+- ¿Qué datos deben recibirse?
+- ¿En qué formato deben recibirse los datos de la consulta?
+- ¿Qué debe suceder al no encontrar los datos?
+- ¿Debe tener funcionalidad de paginación?
+    - ¿Cuántos datos deben mostrarse por página?
+- ¿Debe tener funcionalidad de filtro?
+    - ¿A qué campos se les debe aplicar el filtro?
+- ¿Debe tener funcionalidad de ordenamiento?
+    - ¿A qué campos se les debe aplicar el ordenamiento?
+    - ¿En qué orden deben mostrarse los datos por defecto?
